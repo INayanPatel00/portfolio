@@ -68,6 +68,15 @@ float:right;
 {
     padding-top: 0.5px;
 }
+.link{
+    color: rgb(31, 6, 252);
+
+}
+a:hover {
+    color: red;
+    background-color: transparent;
+    text-decoration: underline;
+  }
 .school-image
 {
         line-height: 0.90;
